@@ -1,0 +1,33 @@
+html{
+    background:gray;
+}
+
+
+.container{
+    height: 800px;
+    width: 800px;
+    margin: 30px auto;
+    background: white;
+ 
+}
+h1{
+    font-size: 52px;
+     text-align:center;
+     color:white;
+    background-color: black;
+    height: 55px;
+    width: 400px;
+    margin:auto;
+    border-radius: 0px 25px 0px 25px;
+   
+}
+ 
+.box{
+    height: 100px;
+    width:100px;
+    float:left;
+   
+}
+.black{
+    background-color:black;
+}
